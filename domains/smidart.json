@@ -1,0 +1,11 @@
+{
+  "description": "Personal landing page — Artem Smidyuk, sales expert",
+  "repo": "smidart-eng/smidart-eng.github.io",
+  "owner": {
+    "username": "smidart-eng",
+    "email": ""
+  },
+  "record": {
+    "CNAME": "smidart-eng.github.io"
+  }
+}
